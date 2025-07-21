@@ -219,6 +219,18 @@ export default function Home() {
             </button>
           </div>
 
+          {/* YouTube Video Link */}
+          <div className="mb-16 text-center">
+            <a
+              href="https://www.youtube.com/watch?v=wm5gMKuwSYk&t=7s"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block px-6 py-3 bg-red-600 hover:bg-red-700 text-white font-semibold rounded-lg shadow-lg transition-all duration-300 text-lg"
+            >
+              ▶️ Watch: Next.js Crash Course (YouTube)
+            </a>
+          </div>
+
           {/* Stats section */}
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mb-16">
             {[
