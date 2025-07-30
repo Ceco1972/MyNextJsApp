@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+A live site with a to do list accessible here: https://mynextjsapp13.netlify.app/
+
 ## Getting Started
 
 First, run the development server:
